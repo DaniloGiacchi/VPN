@@ -17,3 +17,12 @@ C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.csproj.GenerateRes
 C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.csproj.CoreCompileInputs.cache
 C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.exe
 C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.pdb
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\bin\Debug\myVPN.exe.config
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\bin\Debug\myVPN.exe
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\bin\Debug\myVPN.pdb
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\obj\Debug\myVPN.Properties.Resources.resources
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\obj\Debug\myVPN.VpnConnector.resources
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\obj\Debug\myVPN.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\obj\Debug\myVPN.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\obj\Debug\myVPN.exe
+C:\Users\danil\Desktop\VPN\easyVPN\myVPN\obj\Debug\myVPN.pdb

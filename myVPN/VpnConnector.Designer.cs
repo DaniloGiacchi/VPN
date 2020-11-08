@@ -1,6 +1,6 @@
 ﻿namespace myVPN
 {
-    partial class Form1
+    partial class VpnConnector
     {
         /// <summary>
         /// Required designer variable.
@@ -28,42 +28,42 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+            this.layoutPaneHome = new System.Windows.Forms.TableLayoutPanel();
             this.Label2 = new System.Windows.Forms.Label();
             this.Label4 = new System.Windows.Forms.Label();
             this.txtHost = new System.Windows.Forms.TextBox();
             this.txtPassword = new System.Windows.Forms.TextBox();
             this.Label3 = new System.Windows.Forms.Label();
             this.txtUsername = new System.Windows.Forms.TextBox();
-            this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
+            this.layoutPaneConnection = new System.Windows.Forms.TableLayoutPanel();
             this.btnDisconnect = new System.Windows.Forms.Button();
             this.btnConnect = new System.Windows.Forms.Button();
-            this.tableLayoutPanel2.SuspendLayout();
-            this.tableLayoutPanel3.SuspendLayout();
+            this.layoutPaneHome.SuspendLayout();
+            this.layoutPaneConnection.SuspendLayout();
             this.SuspendLayout();
             // 
-            // tableLayoutPanel2
+            // layoutPaneHome
             // 
-            this.tableLayoutPanel2.ColumnCount = 2;
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
-            this.tableLayoutPanel2.Controls.Add(this.Label2, 0, 0);
-            this.tableLayoutPanel2.Controls.Add(this.Label4, 0, 2);
-            this.tableLayoutPanel2.Controls.Add(this.txtHost, 1, 0);
-            this.tableLayoutPanel2.Controls.Add(this.txtPassword, 1, 2);
-            this.tableLayoutPanel2.Controls.Add(this.Label3, 0, 1);
-            this.tableLayoutPanel2.Controls.Add(this.txtUsername, 1, 1);
-            this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel3, 1, 3);
-            this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
-            this.tableLayoutPanel2.RowCount = 4;
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(321, 236);
-            this.tableLayoutPanel2.TabIndex = 14;
+            this.layoutPaneHome.ColumnCount = 2;
+            this.layoutPaneHome.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.layoutPaneHome.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
+            this.layoutPaneHome.Controls.Add(this.Label2, 0, 0);
+            this.layoutPaneHome.Controls.Add(this.Label4, 0, 2);
+            this.layoutPaneHome.Controls.Add(this.txtHost, 1, 0);
+            this.layoutPaneHome.Controls.Add(this.txtPassword, 1, 2);
+            this.layoutPaneHome.Controls.Add(this.Label3, 0, 1);
+            this.layoutPaneHome.Controls.Add(this.txtUsername, 1, 1);
+            this.layoutPaneHome.Controls.Add(this.layoutPaneConnection, 1, 3);
+            this.layoutPaneHome.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.layoutPaneHome.Location = new System.Drawing.Point(0, 0);
+            this.layoutPaneHome.Name = "layoutPaneHome";
+            this.layoutPaneHome.RowCount = 4;
+            this.layoutPaneHome.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.layoutPaneHome.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.layoutPaneHome.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.layoutPaneHome.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.layoutPaneHome.Size = new System.Drawing.Size(321, 236);
+            this.layoutPaneHome.TabIndex = 14;
             // 
             // Label2
             // 
@@ -119,20 +119,20 @@
             this.txtUsername.Size = new System.Drawing.Size(246, 20);
             this.txtUsername.TabIndex = 10;
             // 
-            // tableLayoutPanel3
+            // layoutPaneConnection
             // 
-            this.tableLayoutPanel3.ColumnCount = 2;
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Controls.Add(this.btnDisconnect, 1, 0);
-            this.tableLayoutPanel3.Controls.Add(this.btnConnect, 0, 0);
-            this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(67, 180);
-            this.tableLayoutPanel3.Name = "tableLayoutPanel3";
-            this.tableLayoutPanel3.RowCount = 1;
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(251, 53);
-            this.tableLayoutPanel3.TabIndex = 19;
+            this.layoutPaneConnection.ColumnCount = 2;
+            this.layoutPaneConnection.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.layoutPaneConnection.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.layoutPaneConnection.Controls.Add(this.btnDisconnect, 1, 0);
+            this.layoutPaneConnection.Controls.Add(this.btnConnect, 0, 0);
+            this.layoutPaneConnection.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.layoutPaneConnection.Location = new System.Drawing.Point(67, 180);
+            this.layoutPaneConnection.Name = "layoutPaneConnection";
+            this.layoutPaneConnection.RowCount = 1;
+            this.layoutPaneConnection.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.layoutPaneConnection.Size = new System.Drawing.Size(251, 53);
+            this.layoutPaneConnection.TabIndex = 19;
             // 
             // btnDisconnect
             // 
@@ -155,32 +155,32 @@
             this.btnConnect.UseVisualStyleBackColor = true;
             this.btnConnect.Click += new System.EventHandler(this.ClickButtonConnect);
             // 
-            // Form1
+            // VpnConnector
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(321, 236);
-            this.Controls.Add(this.tableLayoutPanel2);
-            this.Name = "Form1";
+            this.Controls.Add(this.layoutPaneHome);
+            this.Name = "VpnConnector";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "My VPN";
-            this.tableLayoutPanel2.ResumeLayout(false);
-            this.tableLayoutPanel2.PerformLayout();
-            this.tableLayoutPanel3.ResumeLayout(false);
+            this.layoutPaneHome.ResumeLayout(false);
+            this.layoutPaneHome.PerformLayout();
+            this.layoutPaneConnection.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
+        private System.Windows.Forms.TableLayoutPanel layoutPaneHome;
         internal System.Windows.Forms.Label Label2;
         internal System.Windows.Forms.Label Label4;
         internal System.Windows.Forms.TextBox txtHost;
         internal System.Windows.Forms.TextBox txtPassword;
         internal System.Windows.Forms.Label Label3;
         internal System.Windows.Forms.TextBox txtUsername;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
+        private System.Windows.Forms.TableLayoutPanel layoutPaneConnection;
         internal System.Windows.Forms.Button btnDisconnect;
         internal System.Windows.Forms.Button btnConnect;
     }

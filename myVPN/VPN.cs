@@ -33,7 +33,7 @@ namespace myVPN
         {
             this.CreateVpnDirectory();
             this.SettingVpnConnectionPbkFile(host);
-            this.SettingVpnConnectionBatFile(username, password,"CONNECT");
+            this.SettingVpnConnectionBatFile(username, password, "CONNECT");
             this.StartProcess();
         }
 
@@ -104,7 +104,7 @@ namespace myVPN
         }
         #endregion
 
-        #region define function starting the connection
+        #region define function starting the Connection/Disconnection process
         private void StartProcess()
         {
             try
@@ -117,6 +117,7 @@ namespace myVPN
                         WindowStyle = ProcessWindowStyle.Normal
                     }
                 };
+
             }
             catch
             {
@@ -132,7 +133,7 @@ namespace myVPN
             {
                 throw new Exception("Impossible to start a new process.");
             }
-            
+           
         }
         #endregion
     }
