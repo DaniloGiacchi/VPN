@@ -1,0 +1,19 @@
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.exe.config
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.exe
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.pdb
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.Form1.resources
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.Properties.Resources.resources
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.csproj.GenerateResource.Cache
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.exe
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.pdb
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.csprojResolveAssemblyReference.cache
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\bin\Debug\myVPN.exe.config
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\bin\Debug\myVPN.exe
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\bin\Debug\myVPN.pdb
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.csprojResolveAssemblyReference.cache
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.Form1.resources
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.Properties.Resources.resources
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.exe
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Debug\myVPN.pdb

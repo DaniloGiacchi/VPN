@@ -1,0 +1,12 @@
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\bin\Release\myVPN.exe.config
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\bin\Release\myVPN.exe
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\bin\Release\myVPN.pdb
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\bin\Release\myVPN.exe.CodeAnalysisLog.xml
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\bin\Release\myVPN.exe.lastcodeanalysissucceeded
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Release\myVPN.csprojResolveAssemblyReference.cache
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Release\myVPN.Form1.resources
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Release\myVPN.Properties.Resources.resources
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Release\myVPN.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Release\myVPN.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Release\myVPN.exe
+C:\Users\danil\Desktop\VPN\myVPN-master\myVPN\obj\Release\myVPN.pdb
